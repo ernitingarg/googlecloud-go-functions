@@ -1,5 +1,3 @@
-# soteria-functions
-
 ## Usage
 
 #### select target project for deployment
